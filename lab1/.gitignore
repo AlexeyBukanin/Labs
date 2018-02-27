@@ -1,0 +1,18 @@
+# tex generated files
+*.aux
+*.dvi
+*.ps
+*.log
+*.pdf
+*.synctex.gz
+*.toc
+*.out
+*.bbl
+*.blg
+*.run.xml
+*.bcf
+
+# backups
+*~
+*.bak
+
